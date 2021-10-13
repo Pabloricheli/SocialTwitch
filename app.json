@@ -1,10 +1,10 @@
 {
-  "name": "stream.data",
-  "displayName": "stream.data",
+  "name": "bravos.clan",
+  "displayName": "bravos.clan",
   "expo": {
-    "name": "stream.data",
-    "scheme": "stream.data",
-    "slug": "streamData",
+    "name": "bravos.clan",
+    "scheme": "bravos.clan",
+    "slug": "bravosClan",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
